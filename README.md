@@ -4,9 +4,9 @@ En este repositorio se encuentran las entregas para el curso de Programación Or
 
 En este curso principalmente se utilizó Java como herramienta para aprender sobre este paradigma de programación, llevando a cabo las siguientes actividades:
 
-- 6 Hojas de Trabajo
-- 4 Laboratorios
-- 2 Proyectos
+  - 6 Hojas de Trabajo
+  - 4 Laboratorios
+  - 2 Proyectos
 
   Fueron abarcados temas relacionados a la orientación de objetos y desarrollo de software tales como:
 
