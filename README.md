@@ -1,4 +1,4 @@
-# Ejercicio 2. Arreglos Basicos
+# Laboratorio 3. Herencia
 ## Autor: Jose Merida
 ### Instrucciones:
 Recientemente un emprendimiento llamado “Tu outfit ideal” ha solicitado apoyo para manejar el
