@@ -26,3 +26,6 @@ Se desea que usted realice un programa que sea capaz de:
 - Guardar los tickets en un archivo csv
   
 - Cargar los tickets de un archivo csv.
+
+### Diagrama UML:
+![image](https://github.com/user-attachments/assets/3d0f1809-49bc-452d-92fe-a1dd3ad32f47)
