@@ -1,5 +1,5 @@
 # Ejercicio 2. Arreglos Basicos
-## Autor: Jose Merida
+## Autor: Jose Merida | 29 de Agosto 2023
 ### Instrucciones: 
 Estas desarrollando un programa para gestionar el inventario de una tienda. La tienda tiene a la
 venta diferentes tipos de productos, los cuales deben registrarse, verificar disponibilidad, y realizar
