@@ -23,3 +23,5 @@ estadísticas de promedio:
 - Las marcas más comunes
   
 Y adicionalmente, las tres lineas de automóviles más frecuentes que ingresan al taller.
+### Diagrama UML
+![image](https://github.com/user-attachments/assets/0700919e-e4df-4211-afe8-7d276f2eab79)
