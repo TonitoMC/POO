@@ -1,6 +1,5 @@
 # Ejercicio 1. Overloading y Relaciones entre Clases
-## Autor: Jose Merida
-### 15 de Agosto de 2023
+## Autor: Jose Merida | 15 de Agosto 2023
 ### Instrucciones: 
 La administración de Tomorrowland está solicitando ayuda de programadores para hacer un
 experimento en las ventas de tickets. Debido a la inconformidad de los fans en los eventos
