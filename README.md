@@ -37,3 +37,5 @@ c. Validar precio: si el precio de la sección es mayor al presupuesto no se pue
 comprar el boleto y se termina el proceso para ese comprador.
 7. Si pasan las validaciones anteriores, se le vende al usuario la cantidad de boletos
 determinada.
+### Diagrama UML
+![image](https://github.com/user-attachments/assets/ff75ceee-2049-4cd7-bc2d-5fd3e28386f3)
