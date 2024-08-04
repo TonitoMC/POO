@@ -37,3 +37,5 @@ siguientes características:
       - Talla (xs, s ,m ,l xl)
   
       - Material (oro, bronce, plata)
+### Diagrama UML
+![image](https://github.com/user-attachments/assets/d866577a-81af-4aab-b1e9-0ff49945a78f)
