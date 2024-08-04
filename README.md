@@ -1,5 +1,5 @@
 # Proyecto 1. Mini Juego - Tortuguitas
-## Autor: Jose Merida / Sophie Cleaves
+## Autor: Jose Merida / Sophie Cleaves | 6 de Agosto
 ### Instrucciones: 
 Greenfoot es un ambiente que permite la creación de juegos interactivos de una forma fácil, sobre
 todo para aquellos que están aprendiendo a usar el lenguaje java. Este proyecto consiste en la
