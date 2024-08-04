@@ -1,5 +1,5 @@
 # Ejercicio 3. Arreglos Dinamicos
-## Autor: Jose Merida
+## Autor: Jose Merida | 10 de Septiembre 2023
 ### Instrucciones:
 Un taller mecánico está teniendo problemas para registrar la información de los automóviles a los
 que se les están prestando servicios.
