@@ -58,3 +58,5 @@ descrita a continuación:
   - Aplicar cupón de 15 días adicionales (Premium).
     
   - Cambiar contraseña.
+ ### Diagrama UML
+![image](https://github.com/user-attachments/assets/cbfc7084-2c80-41d7-829a-b0e07a9bc8f7)
