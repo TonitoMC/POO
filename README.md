@@ -1,4 +1,4 @@
-# Ejercicio 2. Arreglos Basicos
+# Laboratorio 1. Clases
 ## Autor: Jose Merida | 6 de Agosto 2023
 ### Instrucciones:
 Actualmente usted se encuentra trabajando en Evergreen, debido al incidente mostrado en la Figura
