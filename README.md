@@ -20,3 +20,5 @@ Antes de comenzar a programar el alumno debe elaborar un documento de texto dond
 el propósito de cada clase, atributo y método que le servirá para implementar el sistema. Además,
 para determinar el flujo de mensajes entre los objetos y las relaciones entre las clases debe diseñar
 un diagrama de clases usando UML.
+### Diagrama UML
+![image](https://github.com/user-attachments/assets/e98e03dc-681a-4e23-a883-8d37d09c4652)
