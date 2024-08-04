@@ -1,19 +1,6 @@
-# POO
-## Author: Jose Merida | Segundo Semestre 2023
-En este repositorio se encuentran las entregas para el curso de Programación Orientada a Objetos, cada una en su respectivo Branch del repositorio.
+# Proyecto 2. Calculadora Huella de Carbono
+## Author: Jose Merida | 19 de Noviembre 2023
+Para este proyecto se tuvo que aplicar Design Thinking y buscar resolver un problema por medio del desarrollo de un programa que incorpore todos los aprendizajes durante el curso. Se implementó una calculadora de huella de carbono con cálculos precisos y una interfaz gráfica para que los usuarios pudieran interactuar de una manera más amigable.
 
-En este curso principalmente se utilizó Java como herramienta para aprender sobre este paradigma de programación, llevando a cabo las siguientes actividades:
-
-  - 6 Hojas de Trabajo
-  - 4 Laboratorios
-  - 2 Proyectos
-
-  Fueron abarcados temas relacionados a la orientación de objetos y desarrollo de software tales como:
-
-  - Clases
-  - Relaciones entre Clases
-  - Overloading
-  - Excepciones
-  - Polimorfismo
-  - Herencia
-  - Interfaces
+### Demostración
+[Link](https://youtu.be/4sSe7S1fwkk)
