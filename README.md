@@ -17,3 +17,5 @@ que le dé el visto bueno y luego comenzar a programar. Tenga en cuenta que debe
 de diseño Modelo – Vista – Controlador por lo que solo la clase que utilizará para interactuar con el
 usuario podrá mostrarle mensajes. Le están pidiendo además que use arreglos de objetos para que
 la información esté organizada.
+### Diagrama UML
+![image](https://github.com/user-attachments/assets/50590b6e-4ebb-4712-9d2f-3aa4302a9c24)
