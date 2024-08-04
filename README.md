@@ -17,3 +17,5 @@ Con la finalidad de avanzar a la era digital, el encargado del museo te ha contr
 sistema facilita la administración de registros y realiza todos los análisis de forma automática. El personal no
 debería perder tiempo en cálculos o búsquedas manuales. Para garantizar la calidad del trabajo y hacer un análisis
 más detallado de los componentes y sus interacciones, deberá presentarse un diagrama UML de clases.
+### Diagrama UML
+![image](https://github.com/user-attachments/assets/a8eb6e02-8176-4d27-b0ad-1691fda9a9a9)
