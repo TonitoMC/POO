@@ -1,5 +1,5 @@
 # Ejercicio 4. Modelacion con Herencia
-## Autor: Jose Merida
+## Autor: Jose Merida | 9 de Octubre 2023
 ### Instrucciones:
 En el museo de historia nacional hp busca modernizar y automatizar el proceso de registro y catalogación de
 especímenes.
