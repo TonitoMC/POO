@@ -1,4 +1,4 @@
-# Ejercicio 2. Arreglos Basicos
+# Laboratorio 2. Arreglos y Excepciones
 ## Autor: Jose Merida | 22 de Septiembre 2023
 ### Instrucciones:
 Un estudiante de la UVG quiere saber cómo le va en el semestre, por lo que se le ocurrió desarrollar
