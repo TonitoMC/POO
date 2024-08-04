@@ -9,5 +9,3 @@ asignarle una categoría “Cargado/vacío”. Usted tiene conocimiento que un c
 pesa aproximadamente 2300 kg y que puede llegar a un peso bruto de 325000 kg. Con esta
 información usted debe presentar un prototipo de programa en donde se pueda evaluar 5
 contenedores y mostrar al usuario final si este contenedor se encuentra “Cargado/vacío”
-Figura 1. Incidente barco Evergreen en el Canal de Suez.
-Material a entregar en canvas:
